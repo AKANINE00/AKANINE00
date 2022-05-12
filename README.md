@@ -1,6 +1,6 @@
 # I'm AKANINE 👋 
 
-<strong>My name is Nine and I'm 14 Years old , I interested in web developer  </strong>
+<strong>My name is Nine and I'm 14 Years old Thai developer, I interested in web developer  </strong>
 
 
 ## I'm a Developer and Cyber Security, 🌱!!
