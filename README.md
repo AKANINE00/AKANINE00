@@ -11,7 +11,7 @@
 ## I'm attacker 👻 !!
 - 🦢 Dos and DDos 
 - 🦢 layer 4 , layer 7
-- 🦢 UDP TCP ACK HTTP HTTPS Syn 
+- 🦢 UDP TCP HTTP HTTPS TLS Syn 
 - 🦢 AMP BOTNET NTP Memcached
 
 ### Languages and Tools 🧠 !!
