@@ -36,6 +36,8 @@
   <img height="220" align="center" src="https://github-readme-stats.vercel.app/api?username=AKANINE00&bg_color=30,12cde6,904e95&title_color=fff&text_color=fff" />
 </a>
 
+<br><img src="https://discord.c99.nl/widget/theme-1/860496041224830996.png"></br>
+
 ---
   
 <!--START_SECTION:activity-->
@@ -51,6 +53,4 @@
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
-
-pxFcQ0
 
