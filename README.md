@@ -10,10 +10,10 @@
 - 🌱 I’m currently learning Python Js C Html
 - 💞️ Socute Network
 
-## I'm attacker 👻 !!
+## I'm Cyber attacker 👻 !!
 - 🦢 Dos and DDos 
 - 🦢 layer 4 , layer 7
-- 🦢 UDP TCP ACK HTTP HTTPS Syn 
+- 🦢 UDP TCP TLS HTTP HTTPS Syn 
 - 🦢 AMP BOTNET NTP Memcached
 
 ### Languages and Tools 🧠 !!
