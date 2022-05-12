@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Python Js C Html
 - 💞️ Socute Network
 
-## I'am cyber attacker👻 !!
+## I'am Cyber attacker👻 !!
 - 🦢 Dos and DDos 
 - 🦢 layer 4 , layer 7
 - 🦢 UDP TCP HTTP HTTPS TLS Syn 
